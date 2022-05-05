@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Logo_ESPRIT.png</file>
+        <file>Images/home.png</file>
+        <file>Images/Settings.ico</file>
+        <file>Images/setting.png</file>
+        <file>Images/logout.png</file>
+        <file>Images/serveur.png</file>
+        <file>Images/back.png</file>
+    </qresource>
+</RCC>
