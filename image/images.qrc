@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>BackGround.jpg</file>
+        <file>Books.jpg</file>
+        <file>images.jpg</file>
+        <file>images.qrc</file>
+        <file>loginImg1.png</file>
+        <file>bg1.png</file>
+        <file>fleche.png</file>
+        <file>valid.png</file>
+        <file>bouton.png</file>
+        <file>search.png</file>
+        <file>icon.png</file>
+        <file>modifier.png</file>
+        <file>supp.png</file>
+        <file>button.png</file>
+        <file>click.wav</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../../../../Documents/ESPRIT 2A23/Projet C++/Atelier CRUD/Equipement/Template/salle.jpg</file>
+        <file>../../../../../Documents/ESPRIT 2A23/Projet C++/Atelier CRUD/Equipement/Template/logo_p.jpg</file>
+    </qresource>
+</RCC>
